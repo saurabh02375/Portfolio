@@ -259,6 +259,14 @@ nav.navbar.bootsnav .navbar-toggle i{color: #174ab2;}
     padding: 35px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
+.honor {padding: 50px 0 100px;}
+.honor-content {padding-top: 100px;}
+.single-honor-txt h3 {
+    font-size:18px;
+    color: #3c4258;
+    text-transform: initial;
+    line-height: 1.8;
+}
 
 .single-honor-txt p {
     font-size: 16px;
