@@ -259,6 +259,12 @@ nav.navbar.bootsnav .navbar-toggle i{color: #174ab2;}
     padding: 35px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
+
+
+
+
+
+
 .honor-rows{
     margin-right: -15px;
     margin-left: 91px;
@@ -282,6 +288,43 @@ nav.navbar.bootsnav .navbar-toggle i{color: #174ab2;}
     padding: 35px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
+
+
+.cartificate-rows{
+    margin-right: -15px;
+    margin-left: 91px;
+
+}
+.cartificate-col{
+    width: 100%;
+}
+.cartificate {padding: 50px 0 100px;}    
+.cartificate-content {padding-top: -10px;}
+.single-cartificate-txt h3 {
+    font-size:18px;
+    color: #3c4258;
+    text-transform: initial;
+    line-height: 1.8;
+}
+
+.single-cartificate-txt p {
+    font-size: 16px;
+    color: #999fb3;
+    padding: 35px 0 43px;
+    border-bottom: 1px solid #999fb3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 .single-about-add-info {
     margin: 35px 0;
